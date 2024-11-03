@@ -1,7 +1,11 @@
 *{
 	font-family:Montserrat,sans-serif;
+	
 }
 
+h2{
+	text-align: center;
+}
 a{
 	display: block;
 	font-weight: bold;
@@ -9,7 +13,8 @@ a{
 	background: blue;
 	text-decoration: none;
 	padding:12px;
-	margin:10px;
+	margin:0 auto;
+	margin-top: 10px;
 	width: 200px;
 	text-align: center;
 
@@ -22,3 +27,10 @@ a:active{
 	background:green;
 	border: 3px solid orange;
 }
+.youtube{
+	background: green;
+}
+.youtube:hover{
+	background: red;
+}
+
