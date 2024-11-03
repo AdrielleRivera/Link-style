@@ -1,18 +1,24 @@
 *{
 	font-family:Montserrat,sans-serif;
 }
+
 a{
-	display: inline-block;
+	display: block;
 	font-weight: bold;
 	color:white;
 	background: blue;
 	text-decoration: none;
 	padding:12px;
-	border-radius: 50px;
+	margin:10px;
+	width: 200px;
+	text-align: center;
 
-	
 }
 a:hover{
 	background: red;
-	border: 3px solid black;
+	
+}
+a:active{
+	background:green;
+	border: 3px solid orange;
 }
