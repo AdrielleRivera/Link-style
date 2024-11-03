@@ -1,4 +1,8 @@
 a{
 	font-family:Montserrat,sans-serif;
 	font-weight: bold;
+	color:white;
+	background: blue;
+	text-decoration: none;
+	padding:10px;
 }
